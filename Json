@@ -6,5 +6,8 @@
   "is_google_paid": true,
   "is_trial": 0,
   "mac_registered": true,
-  "android_version_code": "2.9"
+  "android_version_code": "2.9",
+  "login_status": 1,
+  "user_role": "admin",
+  "force_update": false
 }
